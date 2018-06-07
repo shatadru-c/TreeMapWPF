@@ -1,1 +1,1 @@
-# TreeMapWPF
+# Sample application using infragistics treeMap
